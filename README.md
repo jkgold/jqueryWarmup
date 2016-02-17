@@ -1,5 +1,7 @@
 # jqueryWarmup
 #### Instructions
+* Fork and clone this repo to do it on your own. A pull request is not necessary. 
+
 * In your app.js file, using jQuery, create an on.('click', function(){//something here}) event to the button with the id of 'addButton'
 
 * Within the the function of that click event create a for loop like this:

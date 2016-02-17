@@ -1,6 +1,6 @@
 # jqueryWarmup
 #### Instructions
-* Fork and clone this repo to do it on your own. A pull request is not necessary.
+* Fork and clone this repo to do it on your own. Submit a pull request when you get it working.
 
 * In your app.js file, using jQuery, create an on.('click', function(){//something here}) event for the button with the id of 'addButton'
 
